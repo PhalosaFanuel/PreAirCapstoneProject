@@ -1,0 +1,24 @@
+contrast :
+val : 45.30
+train : 51.33
+
+
+correlation :
+val : 54.85
+train : 49.00
+
+homogeneity : 
+val : 40.97
+train : 50.13
+
+ASM : 
+val : 39.68
+train : 50.75
+
+energy : 
+val : 42.94
+train : 49.58
+
+dissimilarity :
+val : 51.35
+train : 54.49
